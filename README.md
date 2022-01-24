@@ -1,2 +1,2 @@
-# flexity
-oop project-spring2020
+# MOBILE-SELLING-OOP-PROJECT
+languages : C++
